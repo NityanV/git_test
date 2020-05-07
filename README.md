@@ -1,1 +1,1 @@
-This is NityanV's first git prject. Why in God's green Earth are you reading this?
+This is NityanV's first git project. Why in God's green Earth are you reading this?
